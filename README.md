@@ -1,0 +1,2 @@
+# MemDice
+🎲 MemDIce Bot
