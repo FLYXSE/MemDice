@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
 ![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 Игровой Telegram-бот с использованием игры в кубики и системой выигрышей в Telegram Stars.
 
@@ -153,9 +152,7 @@ MemDice/
 ## Важные предупреждения
 
 1. **Правила Telegram** — Использование ботов с платежами должно соответствовать правилам Telegram
-2. **Тестирование** — Рекомендуется тестировать в тестовом режиме Telegram
-3. **Безопасность** — Никогда не публикуйте токен бота публично
-4. **Возрастное ограничение** — Проверьте локальное законодательство о гемблинге
+2. **Безопасность** — Никогда не публикуйте токен бота публично
 
 ## Для администраторов
 
@@ -170,15 +167,9 @@ MemDice/
 
 Бот использует стандартное логирование Python. Настройте уровень логирования в `bot.py`.
 
-## Лицензия
-
-MIT License
-
 ## Автор и контакты
 
-- Telegram: @kwiken
-- Новости бота: @MemDice
-- Канал: @Onion_vf
+- Telegram: @kwiken_lab
 
 ---
 
